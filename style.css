@@ -185,10 +185,8 @@ clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 79%);
   text-align: center;
   line-height: .9;
     font-family: "Cinzel", serif;
-  font-size: 1em;
+  font-size: 1.5em;
   float: right;
-  margin-bottom: 5%;
-  color: #f18c8e
 
 }
 
@@ -206,6 +204,7 @@ Products Section
   font-family: "Cinzel", serif;
   text-align: center;
   float: left;
+  margin-bottom: 5%;
 }
 
 /******** 
