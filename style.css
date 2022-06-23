@@ -183,7 +183,7 @@ clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 79%);
     transform: rotate(180deg);
    writing-mode: vertical-lr;
   text-align: center;
-  line-height: .9;
+  line-height: 2;
     font-family: "Cinzel", serif;
   font-size: 1.5em;
   float: right;
