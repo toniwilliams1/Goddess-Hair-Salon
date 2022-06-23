@@ -185,6 +185,8 @@ clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 79%);
   text-align: center;
   line-height: .9;
     font-family: "Cinzel", serif;
+  font-size: 2em;
+  float: right;
 
 }
 
