@@ -177,6 +177,17 @@ clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 79%);
   }
 }
 
+.hours{
+  color: white;
+  margin: 0;
+    transform: rotate(180deg);
+   writing-mode: vertical-lr;
+  text-align: center;
+  line-height: .9;
+    font-family: "Cinzel", serif;
+
+}
+
 /**********
 Products Section
 /**********/
