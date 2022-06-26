@@ -1,5 +1,5 @@
 
-# Goddess Hair Salon
+# Goddess Hair Salon 👑
 
 About
 Goddess Hair Salon is a landing page that was built for Goddess Hair Salon LLC, a black-owned natural hair salon based in Bronx, New York. They were in need of a new website to attract new clients, and I was contacted to create a brand new website.
