@@ -1270,6 +1270,14 @@ svg {
   width: 10%;
 }
 
+.nextBtn {
+  margin-left: 5%;
+}
+
+.prevBtn {
+  margin-left: 65%;
+}
+
 /********
 Footer
 /*******/
