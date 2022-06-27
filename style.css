@@ -1123,6 +1123,14 @@ Goddess Experience
 Lookbook
 /************************/
 
+.mySlides {
+  width: 700px;
+  height: 700px;
+  margin-bottom: 15%;
+  margin-left: 20%;
+}
+
+
 .lookbook {
   color: black;
   font-family: "Cinzel", serif;
