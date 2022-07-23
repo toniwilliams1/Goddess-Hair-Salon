@@ -8,6 +8,10 @@ Goddess Hair Salon is a landing page that was built for Goddess Hair Salon LLC, 
 ## View The Live Site Here:
 https://goddesshairsalon.netlify.app/
 
+## Tech Used:
+
+HTML/CSS, JavaScript, CSS, React, Node.js, MongoDB
+
 ## Authors:
 
 - [Toni Williams](https://toniwilliams.netlify.app)
